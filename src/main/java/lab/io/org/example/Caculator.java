@@ -1,4 +1,4 @@
-package lab.io;
+package lab.io.org.example;
 
 public class Caculator implements ICalculator {
 
